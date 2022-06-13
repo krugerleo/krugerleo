@@ -1,11 +1,12 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Leonardo Kruger and my nickname is "kruger"!
-<p align="center">
-
+### About me:
+<p align="center"> 
+  <img src="https://github.com/krugerleo/krugerleo/blob/main/saitama.gif" />
 </p>
 
-### About me:
 I'm a {backend, frontend} developer (since 2018) and a bachelor's stundent in computer science at Universidade Federal do Paraná. on my github you will find some of my university projects mostly done in C and personal projects in many languages, my professional experience was mostly with php, javascript and python but I'm always doing small projects to get in touch with other technologies.
+
 ### Tools and technologies
 <div> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
