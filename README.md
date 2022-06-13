@@ -35,7 +35,7 @@ I'm a {backend, frontend} developer (since 2018) and a bachelor's stundent in co
           
 <div>
   <a href="https://github.com/krugerleo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krugerleo&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krugerleo&layout=compact&langs_count=8&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krugerleo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>  
 
