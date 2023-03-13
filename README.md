@@ -7,6 +7,10 @@
 
 I'm a {backend, frontend} developer (since 2018) and a bachelor's stundent in computer science at Universidade Federal do Paraná. on my github you will find some of my university projects mostly done in C and personal projects in many languages, my professional experience was mostly with php, javascript and python but I'm always doing small projects to get in touch with other technologies.
 
+### Projects
+
+You can find some of my projects done on [Replit](https://replit.com/@krugerleo)
+
 ### Tools and technologies
 <div> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
