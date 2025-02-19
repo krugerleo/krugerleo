@@ -10,7 +10,7 @@ I’m a passionate **software developer** currently specializing in **Java** and
 - 🎓 **Computer Science** graduate from UFPR  
 - 💼 Experience with **Java, Python (Flask), PHP (Laravel), Node.js, and Vue.js**  
 - 📊 Worked with **Oracle, MySQL, and PostgreSQL databases**  
-- 🛠️ Familiar with **messaging systems, design patterns (Strategy, Repository, Singleton), and CI/CD using Jenkins**  
+- 🛠️ Familiar with **messaging systems, design patterns, Agile and CI/CD using Jenkins**  
 - 📜 Strong advocate for **documentation and process optimization**  
 
 ## 🔥 What I'm Working On  
