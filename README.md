@@ -22,7 +22,7 @@ I specialize in **distributed systems, microservices resilience (Fallback, Circu
 Check out my hands-on architectural proofs-of-concept:
 
 - 🛡️ **[Resilience4j Fallback & Circuit Breaker](#)** — Handling external service degradation in high-volume APIs.
-- 🔒 **[Database Lock Strategies](#)** — Preventing race conditions and double-spending using Pessimistic Locking in JPA.
+- 🔒 **[Database Lock Strategies](https://github.com/krugerleo/spring-concurrency-wallet-api)** — Preventing race conditions and double-spending using Pessimistic Locking in JPA.
 - ⚡ **[Redis Cache-Aside Engine](#)** — Optimizing high-read throughput and reducing database latency (URL Shortener Architecture).
 - 🚀 **[JPA Performance Tuning](#)** — Solving the N+1 query problem using EntityGraph and JOIN FETCH.
 
