@@ -10,7 +10,7 @@ I specialize in **distributed systems, microservices resilience (Fallback, Circu
 
 ## 🛠 Tech Stack & Core Competencies
 
-- **Languages:** Java (Core/Spring Boot), Node.js (Express, NestJS), Python, SQL
+- **Languages:** Java (Core/Spring Boot), Node.js, Python, SQL
 - **Architecture & Reliability:** Microservices, System Design, Resilience Patterns (Resilience4j), Clean Architecture, REST APIs
 - **Databases & Caching:** PostgreSQL, MySQL, Redis (Cache-aside strategy), Hibernate/JPA
 - **DevOps & Tools:** Git, Docker, CI/CD, Linux, OpenAI API
