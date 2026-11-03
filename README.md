@@ -1,6 +1,6 @@
 # Hi there, I'm Leonardo Kruger 👋
 
-### Back-End Software Engineer | Java (Spring Boot) & Node.js | System Design
+### Software Engineer | Java (Spring Boot) | System Design
 
 I am a **Software Engineer with 8+ years of professional experience** architecting, scaling, and maintaining high-throughput systems for the **banking and financial sectors** (including Banco BV, BTG Pactual, and Bradesco).
 
@@ -31,7 +31,7 @@ Check out my hands-on architectural proofs-of-concept:
 
 ## 📊 GitHub Stats & Problem Solving
 
-- 🧩 Active practitioner on **LeetCode & HackerRank** (Focusing on Core Patterns: Arrays, Graphs, Dynamic Programming)
+- 🧩 Active practitioner on **LeetCode**
 - 🎓 **B.Sc. in Computer Science** — Universidade Federal do Paraná (UFPR)
 
 ---
